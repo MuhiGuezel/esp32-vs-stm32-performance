@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/muhammedguezel/esp/v5.2.2/esp-idf",
+    "idf.pythonInstallPath": "/opt/homebrew/bin/python3",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-bridge.cfg"
+    ],
+    "idf.port": "/dev/tty.usbserial-110",
+    "idf.toolsPath": "/Users/muhammedguezel/.espressif",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/muhammedguezel/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/share/openocd/scripts",
+        "IDF_TARGET": "esp32c3"
+    },
+    "idf.flashType": "UART"
+}

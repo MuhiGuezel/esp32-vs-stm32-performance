@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/muhammedguezel/Documents/Quellcode/Peripherieleistungsanalyse/ESP32-C3/PWM-Qualit\u00e4t/esp32-c3-pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
